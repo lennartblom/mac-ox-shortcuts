@@ -6,6 +6,10 @@
 | Shortcut        | Functionality |
 | ------------- |:-------------:|
 |  `[Command]` + `[Shift]` + `[V]`  | Paste content without formatting information      |
+|  `[Shift]` + `[Command]` + `[Tab]`  | Reverse order of select background apps      |
+|  `[Command]` + `[Tab]` + `[Option]` (before releasing `[Command]`)  | Select background app and re-open the app's main window |
+|   |     |
+
 
 
 ## Browser 
