@@ -26,3 +26,16 @@
 | Shortcut        | Functionality |
 | ------------- |:-------------:|
 |  `[Command]` + `[Option]` + :arrow_left: / :arrow_right:  | Switch between Browser tabs      |
+
+
+### Atlassian JIRA
+
+| Shortcut        | Functionality |
+| ------------- |:-------------:|
+|  `[S]` + `[T]`  | Moving Jira Issues to top of the sprint/backlog.     |
+|  `[S]` + `[B]`  | Moving Jira Issues to bottom of the sprint/backlog.     |
+|  `[A]`  | Assign selected issue     |
+|  `[M]`  | Comment on selected issue     |
+
+
+
