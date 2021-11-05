@@ -1,4 +1,4 @@
-# Mac OS X Cheatsheet :nerd_face:
+# Shortcut Cheatsheet :nerd_face:
 
 
 ## Overall Shortcuts
@@ -19,6 +19,8 @@
 | Shortcut        | Functionality |
 | ------------- |:-------------:|
 |  `[Command]` + `[Shift]` + :arrow_left: / :arrow_right:  | Switch between Browser tabs      |
+|  `[Command]` + `[Shift]` + `[\]`  | Search in all open Tabs      |
+
 
 ### Chrome
 
@@ -26,6 +28,7 @@
 | Shortcut        | Functionality |
 | ------------- |:-------------:|
 |  `[Command]` + `[Option]` + :arrow_left: / :arrow_right:  | Switch between Browser tabs      |
+|  `[Command]` + `[Shift]` + `[A]`  | Search in all open Tabs      |
 
 
 ### Atlassian JIRA
