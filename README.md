@@ -8,6 +8,10 @@
 |  `[Command]` + (`[Option]`) + `[Shift]` + `[V]`  | Paste content without formatting information (`[Option]` is only required for some apps)      |
 |  `[Shift]` + `[Command]` + `[Tab]`  | Reverse order of select background apps      |
 |  `[Command]` + `[Tab]` + `[Option]` (before releasing `[Command]`)  | Select background app and re-open the app's main window |
+|  `[Command]` + `[Shift]` + `[3]` | Screenshot of overall screen(s) |
+|  `[Command]` + `[Shift]` + `[4]` | Screenshot of specific selection |
+|  `[Command]` + `[Control]` + `[Shift]` + `[3]` | Screenshot of overall screen(s) copied to the clipboard |
+|  `[Command]` + `[Control]` + `[Shift]` + `[4]` | Screenshot of specific selection copied to the clipboard |
 |   |     |
 
 
